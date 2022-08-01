@@ -1,1 +1,37 @@
 
+{
+      "communication": [
+      {
+        "id": 1,
+        "name": "Josiah Ambenje",
+        "email": "josiah.ambenje@gmail.com",
+        "WHO": "Employer",
+        "WHY": "Employ Me",
+        "message": "I want you to take part in developing my uber app"
+      },
+      {
+        "name": "Job Sidney",
+        "email": "jobsidney67@gmail.com",
+        "WHO": "Employer",
+        "WHY": "Employ me",
+        "message": "jjbbjbjbjbjbjbjjbjb",
+        "id": 2
+      },
+      {
+        "name": "Job Sidney",
+        "email": "jobsidney67@gmail.com",
+        "WHO": "Collaborator",
+        "WHY": "Collabo-req",
+        "message": "i want to collaborate on flutter APP",
+        "id": 3
+      },
+      {
+        "name": "Job Sidney",
+        "email": "jobsidney67@gmail.com",
+        "WHO": "Employer",
+        "WHY": "Employ me",
+        "message": "edfvb dc azfv gb h",
+        "id": 4
+      }
+    ]
+}
